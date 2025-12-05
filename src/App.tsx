@@ -18,8 +18,13 @@ function App() {
 
         {/* Right Column */}
         <RightColumn/>
-        
+
       </div>
+      <div >
+        <h1 className="font-bold text-base p-2  bg-white text-teal-600 w-screen outline items-center"> Travel Agency</h1>
+        <i className="fa-brands fa-facebook-f"></i>
+      </div>
+
     </div>
   )
 }
