@@ -2,7 +2,7 @@
 const ImageTextOverlay = () => {
   return (
     <div className="relative">
-          <img className="w-screen h-200 mb-50" src="public/Nature Scape.webp" alt="" />
+          <img className="w-screen h-240 mb-50" src="public/Nature Scape.webp" alt="" />
           <div className="absolute bottom-140 left-165 ">
             <h1 className="text-6xl text-white font-bold"> Explore the World </h1>
           </div>
